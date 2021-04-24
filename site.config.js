@@ -8,19 +8,19 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
+  name: 'Cusdis ❤️ nextjs-notion-starter-kit',
   domain: 'transitivebullsh.it',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+  description: 'See how to integrate Cusdis into nextjs-notion-starter-kit',
+  socialImageTitle: 'Cusdis ❤️ nextjs-notion-starter-kit',
+  socialImageSubtitle:
+    'See how to integrate Cusdis into nextjs-notion-starter-kit',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'cusdis_hq',
+  github: 'djyde/cusdis',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults

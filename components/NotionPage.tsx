@@ -294,7 +294,6 @@ export const NotionPage: React.FC<types.PageProps> = ({
         }
       />
 
-      <GitHubShareButton />
     </TwitterContextProvider>
   )
 }
