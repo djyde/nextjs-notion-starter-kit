@@ -1,6 +1,7 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '78fc5a4b88d74b0e824e29407e9f1ec1',
+  rootNotionPageId:
+    'Cusdis-nextjs-notion-starter-kit-b21ef08a232745cbbf6b90112b1b1503',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -35,7 +36,9 @@ module.exports = {
   utterancesGitHubRepo: null,
 
   // Cusdis comment widget (optional)
-  cusdis: null,
+  cusdis: {
+    appId: 'ad9ce296-a85f-4e15-9130-379ffb47f6bd'
+  },
 
   // whether or not to enable support for LQIP preview images (optional)
   // NOTE: this requires you to set up Google Firebase and add the environment
